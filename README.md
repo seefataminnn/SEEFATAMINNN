@@ -1,6 +1,6 @@
 ![Full-Stack Developer](https://pbs.twimg.com/profile_banners/1228363489636319235/1634663561/600x200)
-###Hey, I'm Bani Amin
-#### Full-Stack Developer
+### Hi there 👋, Hey, I'm Bani Amin
+#### Full-Stack Developer.
 
 I'm a Full-Stack Web Developer based in Dhaka, Bangladesh. I've worked with companies of all shapes and sizes. I spend my time working on freelance and building clients projects.
 
