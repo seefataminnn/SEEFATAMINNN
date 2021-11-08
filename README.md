@@ -11,7 +11,7 @@ Skills: HTML / CSS / JS / VUE JS / REACT / PHP / FIREBASE / PYTHON
 - 👯 I’m looking to collaborate on YouTube. 
 - 🤔 I’m looking for help with Google Ltd. 
 - 💬 Ask me about Anything... 
-- 📫 How to reach me: Only Mail.(contactme.inn@gmail.com)
+- 📫 How to reach me: Only Mail.
 - ⚡ Fun fact: I've No Girlfriend. 
 
 
