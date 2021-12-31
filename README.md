@@ -1,4 +1,4 @@
-![Full-Stack Developer](https://pbs.twimg.com/profile_banners/1228363489636319235/1634663561/600x200)
+![Full-Stack Developer](https://twitter.com/seefataminnn/header_photo)
 ### Hi there 👋, Hey, I'm Bani Amin
 #### Full-Stack Developer
 
