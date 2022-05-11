@@ -6,7 +6,7 @@ I'm a Full-Stack Web Developer based in Dhaka, Bangladesh. I've worked with comp
 
 Skills: HTML / CSS / JS / VUE JS / REACT / PHP / FIREBASE / PYTHON
 
-- 🔭 I’m currently working on AWS. 
+- 🔭 I’m currently working on Softifi. 
 - 🌱 I’m currently learning PYTHON. 
 - 👯 I’m looking to collaborate on YouTube. 
 - 🤔 I’m looking for help with Google Ltd. 
