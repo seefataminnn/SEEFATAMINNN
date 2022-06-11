@@ -4,7 +4,7 @@
 
 I'm a Full-Stack Web Developer based in Dhaka, Bangladesh. I've worked with companies of all shapes and sizes. I spend my time working on freelance and building clients projects.
 
-Skills: HTML / CSS / JS / VUE JS / REACT / PHP / FIREBASE / PYTHON
+Skills: HTML / CSS / JS / VUE JS / REACT / PHP / FIREBASE / PYTHON / C / C++ / JAVA
 
 - 🔭 I’m currently working on Softifi. 
 - 🌱 I’m currently learning PYTHON. 
